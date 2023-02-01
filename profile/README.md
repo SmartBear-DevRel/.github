@@ -1,6 +1,6 @@
 # Welcome to SmartBear Developer Relations :wave:
 
-This location acts as an artifical brain for the SmartBear Developer Relations (DevRel) team. 
+This location acts as an artificial brain for the SmartBear Developer Relations (DevRel) team. 
 We'll add sign posts, sample projects, process information and useful guides aimed at making our communities successful with our open source and commercial offerings 
 (and/or combining with other tools and platforms to help you focus on your jobs to be done).
 
