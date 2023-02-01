@@ -14,6 +14,8 @@ DevRel @ SmartBear focuses on the **Evangelism**, **Enablement**, **Advocacy** a
 We see DevRel act as the face of SmartBear within industry/external communities and thought leadership circles, 
 while acting as the representative of those communities internally within SmartBear.
 
+![SmartBear DevRel Pillars](./images/DevRel-with-pillars.png)
+
 Across the pillar above we:
 - Build **awareness** across technical and business communities
 - Promote the **adoption** of our capabilities to address industry (and day to day) challenges that impact our communities
