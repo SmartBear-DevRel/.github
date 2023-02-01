@@ -16,7 +16,7 @@ while acting as the representative of those communities internally within SmartB
 
 ![SmartBear DevRel Pillars](https://raw.githubusercontent.com/SmartBear-DevRel/.github/5a1f1d3d32105ddd396c370d6b55d5b8e760073d/profile/images/DevRel-with-pillars.png)
 
-Across the pillar above we:
+Across the pillars above we:
 - Build **awareness** across technical and business communities
 - Promote the **adoption** of our capabilities to address industry (and day to day) challenges that impact our communities
 - Support the **activation** of the community at large and encourage **engagement** with the end-users and champions who leverage our capabilities to solve real challenges
