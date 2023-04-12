@@ -22,4 +22,17 @@ Across the pillars above we:
 - Support the **activation** of the community at large and encourage **engagement** with the end-users and champions who leverage our capabilities to solve real challenges
 - Unblock and support our community participants to foster and strengthen relationships and trust, which we hope leads to better **retention** and use of our capabilities.
 
+## Events :information_desk_person:
 
+Come join us at an event near you!
+
+:calendar: | :round_pushpin: | Event | Topic | Speaker | Links
+:---------:|:-----:|-------|-------|---------| -----
+Jan, 2023 | Virtual | [SmartBear Webinar](https://smartbear.com/resources/webinars/) | [2023 API Predictions](https://smartbear.com/resources/webinars/2023-api-predictions-shift-left-standardize-for-su/) | Frank Kilcommins | [Recording](https://smartbear.wistia.com/medias/xeam95nef7)
+Jan 26th, 2023 | Virtual | [Conf42 DevOps](https://www.conf42.com/devops2023)| [Let's Make a Pact - Don't Break my API!](https://www.conf42.com/DevOps_2023_Frank_Kilcommins_dont_break_my_api)  | Frank Kilcommins, Alex Bonstrom | [Recording and slides](https://www.conf42.com/DevOps_2023_Frank_Kilcommins_dont_break_my_api) 
+March 1st, 2023 | Virtual | [SmartBear Webinar](https://smartbear.com/resources/webinars/) | [How to Dive Into API Behavior and Integrate Faster](https://smartbear.com/resources/webinars/how-to-dive-into-api-behavior/) | Frank Kilcommins | [Recording](https://smartbear.wistia.com/medias/60rxionhos)
+March 14th, 2023 | Virtual | [SmartBear Webinar](https://smartbear.com/resources/webinars/) | [Test Smarter, Sleep Better With Design-First API Contract Testing](https://smartbear.com/resources/webinars/test-smarter,-sleep-better-design-first/) | Yousaf Nabi, Alex Bonstrom | [Recording](https://smartbear.wistia.com/medias/u8dgzaemaq)
+March 29th, 2023 | Virtual | [SmartBear Webinar](https://smartbear.com/resources/webinars/) | [Boost Collaboration in Event-Driven Architecture](https://smartbear.com/resources/webinars/boost-collaboration-in-event-driven-architectures/) | Frank Kilcommins, Josh Ponelat | [Recording](https://smartbear.wistia.com/medias/hm9xt9qq3y)
+April 26th, 2023 | Virtual | [DeveloperWeek Europe](https://www.developerweek.com/europe/?_ga=2.35634466.2078170232.1681306567-281362976.1681306566) | [Let's Make a Pact - Don't Break my API!](https://developerweekeurope2023.sched.com/event/1Jm5A?iframe=no) | Frank Kilcommins | [Free Open Pass](https://bit.ly/3ZItwNy)
+May 3rd, 2023 | Virtual | [SmartBear Webinar](https://smartbear.com/resources/webinars/) | [2023 State of Software Quality API Report](https://smartbear.com/resources/webinars/2023-state-of-software-quality-api/) | Frank Kilcommins | 
+July 24th,  2023 | Edinburgh, Scotland | [Agile Scotland](https://www.agilealliance.org/agile2023-scotland/) | [Good APIs Are Human-Centered](https://events.agilealliance.org/AAScotland2023/session/1420044/good-apis-are-human-centered) | Frank Kilcommins |
