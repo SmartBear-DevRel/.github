@@ -28,6 +28,8 @@ Come join us at an event near you!
 
 :calendar: | :round_pushpin: | Event | Topic | Speaker | Links
 :---------:|:-----:|-------|-------|---------| -----
+**Upcoming** June 5th, 2024 | Virtual | [DeveloperWeek Europe](https://www.developerweek.com/europe/) | The API Workflows Specification – Unlocking API Value for Humans and Machines | Frank Kilcommins | 
+**Upcoming** May 14th, 2024 | Virtual | [SmartBear Webinar](https://smartbear.com/resources/webinars/) | Build Better APIs with Swagger: A Deep Dive for Developers | Frank Kilcommins, Yousaf Nabi, Jo Laing | 
 **Upcoming** May 1st, 2024 | New York, NY | [apidays](https://www.apidays.global/new-york/) | [The API Workflows Specification – Unlocking API Value for Humans and Machines](https://www.openapis.org/events/apidays-new-york-2024) | Frank Kilcommins | 
 Apr 23rd, 2024 | Virtual | [Akto Event](https://www.akto.io/events) | [Importance of API Documentation in API Security](https://www.akto.io/events/exploring-the-role-of-api-documentation-in-api-security) | Frank Kilcommins, Ankita Gupta (Akto Co-founder) | 
 Apr 3rd, 2024 | Virtual | [AI the Docs](https://apithedocs.org/ai-2024) | [The API Workflows Specification – Unlocking API Value for Humans and Machines](https://apithedocs.org/ai-2024/frank-kilcommins) | Frank Kilcommins | 
