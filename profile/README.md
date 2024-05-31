@@ -28,6 +28,7 @@ Come join us at an event near you!
 
 :calendar: | :round_pushpin: | Event | Topic | Speaker | Links
 :---------:|:-----:|-------|-------|---------| -----
+**Upcoming** June 17th, 2024 | Toronto, ON Canada | [Collision](https://collisionconf.com/) | Proactive Programming and Observability | PJ Hagerty |
 **Upcoming** June 5th, 2024 | Virtual | [DeveloperWeek Europe](https://www.developerweek.com/europe/) | The API Workflows Specification – Unlocking API Value for Humans and Machines | Frank Kilcommins | 
 May 29th, 2024 | Helsinki, Finland | [apidays](https://www.apidays.global/helsinki_and_north/) | [The API Workflows Specification – The missing piece of the API puzzle!](https://www.openapis.org/events/apidays-helsinki-2024) | Frank Kilcommins | 
  May 14th, 2024 | Virtual | [SmartBear Webinar](https://smartbear.com/resources/webinars/) | [Build Better APIs with Swagger: A Deep Dive for Developers](https://smartbear.com/resources/webinars/build-better-apis-with-swagger/) | Frank Kilcommins, Yousaf Nabi, Jo Laing | 
