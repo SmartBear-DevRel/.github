@@ -28,7 +28,7 @@ Come join us at an event near you!
 
 :calendar: | :round_pushpin: | Event | Topic | Speaker | Links
 :---------:|:-----:|-------|-------|---------| -----
-**Upcoming** June 17th, 2024 | Toronto, ON Canada | [Collision](https://collisionconf.com/) | Proactive Programming and Observability | PJ Hagerty |
+June 17th, 2024 | Toronto, ON Canada | [Collision](https://collisionconf.com/) | Proactive Programming and Observability | PJ Hagerty |
 June 13-14th, 2024 | Berlin, Germany | [The Merge](https://merge.berlin/) | Showcasing Pact at the Open Source Fair | Yousaf Nabi, Jo Laing |
 June 5th, 2024 | Virtual | [DeveloperWeek Europe](https://www.developerweek.com/europe/) | [The Arazzo Specification – Unlocking API Value for Humans and Machines](https://developerweekmanagement2024.sched.com/event/1d5r6?iframe=no) | Frank Kilcommins | 
 May 29th, 2024 | Helsinki, Finland | [apidays](https://www.apidays.global/helsinki_and_north/) | [The Arazzo Specification – A Tapestry for API Workflows!](https://www.openapis.org/events/apidays-helsinki-2024) | Frank Kilcommins | [Recording and Slides](https://noti.st/frankkilcommins/2Sgric/the-arazzo-specification-a-tapestry-for-api-workflows) [Arazzo Launch Interview](https://www.youtube.com/watch?v=C_rkvN9zwKg)
