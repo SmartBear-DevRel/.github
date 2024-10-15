@@ -29,8 +29,8 @@ Come join us at an event near you!
 :calendar: | :round_pushpin: | Event | Topic | Speaker | Links
 :---------:|:-----:|-------|-------|---------| -----
 **Upcoming** Oct 18th, 2024 | Seville, Spain | [LangDev Conference](https://langdevcon.org/langdev2024) | The Arazzo Specification: Unlocking Value for Humans and Machines| Frank Kilcommins |
-**Upcoming** Oct 9th, 2024 | London, England | [SmartBear Connect](https://smartbear.com/connect/london/) | Crafting exemplary API experiences: Design principles for developer delight | Frank Kilcommins |
-**Upcoming** Sept 18th, 2024 | London, England | [apidays](https://www.apidays.global/london/) | The Arazzo Specification: Weaving API Value for Humans and Machines | Frank Kilcommins | 
+Oct 9th, 2024 | London, England | [SmartBear Connect](https://smartbear.com/connect/london/) | Crafting exemplary API experiences: Design principles for developer delight | Frank Kilcommins |
+Sept 18th, 2024 | London, England | [apidays](https://www.apidays.global/london/) | The Arazzo Specification: Weaving API Value for Humans and Machines | Frank Kilcommins | [Recording](https://www.youtube.com/watch?v=Lrsl5KV9Fuw)
 June 17th, 2024 | Toronto, ON Canada | [Collision](https://collisionconf.com/) | Proactive Programming and Observability | PJ Hagerty |
 June 13-14th, 2024 | Berlin, Germany | [The Merge](https://merge.berlin/) | Showcasing Pact at the Open Source Fair | Yousaf Nabi, Jo Laing |
 June 5th, 2024 | Virtual | [DeveloperWeek Europe](https://www.developerweek.com/europe/) | [The Arazzo Specification – Unlocking API Value for Humans and Machines](https://developerweekmanagement2024.sched.com/event/1d5r6?iframe=no) | Frank Kilcommins | 
