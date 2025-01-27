@@ -28,7 +28,7 @@ Come join us at an event near you!
 
 :calendar: | :round_pushpin: | Event | Topic | Speaker | Links
 :---------:|:-----:|-------|-------|---------| -----
-**upcoming** Feb 25th, 2025 | Dublin, Ireland | [World Data Symposium (WDS) 2025]([https://www.developerweek.com/](https://www.iata.org/en/events/all/world-data-symposium))| Arazzo and OpenAPI Updates for the IATA Open API Working Group| Frank Kilcommins |
+**upcoming** Feb 25th, 2025 | Dublin, Ireland | [World Data Symposium (WDS) 2025](https://www.iata.org/en/events/all/world-data-symposium)| Arazzo and OpenAPI Updates for the IATA Open API Working Group| Frank Kilcommins |
 **upcoming** Feb 12th, 2025 | San Jose, CA | [DeveloperWeek](https://www.developerweek.com/)| [Describing API Workflows with Arazzo](https://developerweek2025.sched.com/event/1tgyt/openapi-summit-describing-api-workflows-with-arazzo?iframe=no&w=100%&sidebar=yes&bg=no)| Frank Kilcommins |
 **upcoming** Feb 11th, 2025 | San Jose, CA | [DeveloperWeek](https://www.developerweek.com/)| [Intro to Contract Testing: Evolving APIs Safely](https://developerweek2025.sched.com/event/1tn54/oai-workshop-intro-to-contract-testing-evolving-apis-safely?iframe=no&w=100%&sidebar=yes&bg=no)| Frank Kilcommins |
 **upcoming** Feb 5th, 2025 | Virtual | [SmartBear Webinar](https://smartbear.com/resources/webinars/)| [Set the Standards, Stay Ahead: Introducing SmartBear API Hub](https://smartbear.com/resources/webinars/introducing-smartbear-api-hub/)| Frank Kilcommins McKenzie Tucci |
