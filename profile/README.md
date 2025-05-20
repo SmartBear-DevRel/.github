@@ -28,6 +28,9 @@ Come join us at an event near you!
 
 :calendar: | :round_pushpin: | Event | Topic | Speaker | Links
 :---------:|:-----:|-------|-------|---------| -----
+May 15th, 2025 | New York, NY | [apidays](https://www.apidays.global/new-york/) | [Graceful service evolution, driven by open standards, guided by contracts](https://www.openapis.org/events/apidays-new-york-2025) | Yousaf Nabi | 
+May 15th, 2025 | New York, NY | [apidays](https://www.apidays.global/new-york/) | [Getting the Right API Faster: DX and AX with Example Mapping, OpenAPI, and Arazzo](https://www.openapis.org/events/apidays-new-york-2025) | Frank Kilcommins | 
+May 8th, 2025 | Virtual | [SmartBear Webinar](https://smartbear.com/resources/webinars/)| [From Strategy to Execution: Driving API Maturity with API Hub](https://smartbear.com/resources/webinars/forrester-api-hub-webinar/)| Frank Kilcommins, David Mooter (Forrester) | [Recording](https://smartbear.wistia.com/medias/fn3w61j654)
 Feb 25th, 2025 | Dublin, Ireland | [World Data Symposium (WDS) 2025](https://www.iata.org/en/events/all/world-data-symposium)| Arazzo and OpenAPI Updates for the IATA Open API Working Group| Frank Kilcommins |
 Feb 19th, 2025 | Virtual | [DeveloperWeek](https://www.developerweek.com/)| [Describing API Workflows with Arazzo](https://developerweek2025.sched.com/event/1tgyq/virtual-openapi-summit-describing-api-workflows-with-arazzo)| Frank Kilcommins |
 Feb 12th, 2025 | San Jose, CA | [DeveloperWeek](https://www.developerweek.com/)| [Describing API Workflows with Arazzo](https://developerweek2025.sched.com/event/1tgyt/openapi-summit-describing-api-workflows-with-arazzo?iframe=no&w=100%&sidebar=yes&bg=no)| Frank Kilcommins |
