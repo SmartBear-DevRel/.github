@@ -28,6 +28,8 @@ Come join us at an event near you!
 
 :calendar: | :round_pushpin: | Event | Topic | Speaker | Links
 :---------:|:-----:|-------|-------|---------| -----
+**upcoming** June 4th, 2025 | Helsinki, Finland | [apidays](https://www.apidays.global/helsinki_and_north/) | [AI will Decide your API’s Fate!](https://www.apidays.global/helsinki_and_north/#schedule) | Frank Kilcommins | 
+**upcoming** June 4th, 2025 | Helsinki, Finland | [apidays](https://www.apidays.global/helsinki_and_north/) | [Getting the Right API Faster: DX and AX with Example Mapping, OpenAPI, and Arazzo](https://www.openapis.org/events/apidays-helsinki-north-2025) | Frank Kilcommins | 
 May 15th, 2025 | New York, NY | [apidays](https://www.apidays.global/new-york/) | [Graceful service evolution, driven by open standards, guided by contracts](https://www.openapis.org/events/apidays-new-york-2025) | Yousaf Nabi | 
 May 15th, 2025 | New York, NY | [apidays](https://www.apidays.global/new-york/) | [Getting the Right API Faster: DX and AX with Example Mapping, OpenAPI, and Arazzo](https://www.openapis.org/events/apidays-new-york-2025) | Frank Kilcommins | 
 May 8th, 2025 | Virtual | [SmartBear Webinar](https://smartbear.com/resources/webinars/)| [From Strategy to Execution: Driving API Maturity with API Hub](https://smartbear.com/resources/webinars/forrester-api-hub-webinar/)| Frank Kilcommins, David Mooter (Forrester) | [Recording](https://smartbear.wistia.com/medias/fn3w61j654)
